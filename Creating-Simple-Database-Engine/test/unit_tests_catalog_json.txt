@@ -1,0 +1,27 @@
+{
+  "definition": {
+    "t_name": "teams",
+    "path": "../data/Teams.csv"
+  },
+  "columns": [
+    {
+      "col_name": "teamID",
+      "col_type": "text",
+      "not_null": "True",
+      "t_name": "teams"
+    },
+    {
+      "col_name": "yearID",
+      "col_type": "text",
+      "not_null": "True",
+      "t_name": "teams"
+    },
+    {
+      "col_name": "W",
+      "col_type": "number",
+      "not_null": "False",
+      "t_name": "teams"
+    }
+  ],
+  "indexes": {}
+}
